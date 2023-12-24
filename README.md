@@ -20,11 +20,10 @@ VelocityVerve is a Java-based Typing Speed Tester that leverages GUI, Multithrea
 
 1. **Clone the repository:**
 2. **Compile the Java source files:**
-3. **Run the application:**
-    3.1 First Run the LoginServer.java
-    3.2 Then Run the LoginClient.java with Username as "admin" and Password as "password123"
-    3.3 Click "Start" to start the typing test
-    3.4 Analysis will be shown after the completion of type test or after a minute
+3. First Run the LoginServer.java
+4. Then Run the LoginClient.java with Username as "admin" and Password as "password123"
+5. Click "Start" to start the typing test
+6. Analysis will be shown after the completion of type test or after a minute
 
 ## Contributing
 
