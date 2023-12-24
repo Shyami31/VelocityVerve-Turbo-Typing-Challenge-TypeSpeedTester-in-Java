@@ -19,7 +19,6 @@ VelocityVerve is a Java-based Typing Speed Tester that leverages GUI, Multithrea
 ## Setup
 
 1. **Clone the repository:**
-    git clone https://github.com/your-username/VelocityVerve.git
 2. **Compile the Java source files:**
 3. **Run the application:**
     3.1 First Run the LoginServer.java
